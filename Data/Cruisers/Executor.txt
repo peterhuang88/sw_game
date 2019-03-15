@@ -1,0 +1,9 @@
+Executor-Class Dreadnaught
+30
+5
+6000
+2200
+4
+3
+HEAVY_SHIELDS
+IMPERIAL_STANDARD

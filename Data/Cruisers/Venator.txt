@@ -1,0 +1,9 @@
+Venator-Class Star Cruiser
+12
+2
+2000
+1200
+2
+3
+WING_COMMAND
+REPUBLIC_STANDARD

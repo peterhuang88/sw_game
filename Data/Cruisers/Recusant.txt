@@ -1,0 +1,9 @@
+Recusant-Class Destroyer
+12
+2
+2400
+1200
+4
+3
+HEAVY_CANNONS
+ARMOR_PLATING

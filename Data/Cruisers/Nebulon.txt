@@ -1,0 +1,9 @@
+Nebulon-Class Light Cruiser
+10
+1
+1800
+500
+4
+3
+MANEUVERABILITY
+WING_COMMAND

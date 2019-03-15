@@ -1,0 +1,9 @@
+Liberty-Class Assault Cruiser
+18
+2
+2200
+1600
+3
+3
+REBEL_RESOLVE
+MC_ENGINEERING

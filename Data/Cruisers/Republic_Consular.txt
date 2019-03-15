@@ -1,0 +1,9 @@
+Consular-Class Cruiser
+6
+1
+600
+400
+0
+5
+CONSULAR
+BLOCKADE_RUNNER

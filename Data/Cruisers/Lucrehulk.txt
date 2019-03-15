@@ -1,0 +1,9 @@
+Lucrehulk-Class Control Ship
+10
+2
+4400
+0
+6
+2
+CENTRAL_COMPUTING
+BLOCKADE

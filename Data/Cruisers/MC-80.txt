@@ -1,0 +1,9 @@
+MC-80 Command Cruiser
+20
+2
+3000
+1600
+4
+3
+TACTICIAN
+MC_ENGINEERING

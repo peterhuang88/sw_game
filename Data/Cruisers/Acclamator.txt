@@ -1,0 +1,9 @@
+Acclamator-Class Assault Cruiser
+8
+1
+1600
+400
+5
+3
+HEAVY_SHIELDS
+IMPERIAL_STANDARD

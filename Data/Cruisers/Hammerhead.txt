@@ -1,0 +1,9 @@
+Hammerhead Corvette
+6
+1
+1200
+100
+0
+4
+RAMMING
+HEAVY_SHIELDS

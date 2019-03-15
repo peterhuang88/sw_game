@@ -1,0 +1,9 @@
+Malevolence-Class Dreadnaught
+30
+5
+5200
+2000
+2
+5
+ION_CANNONS
+HEAVY_SHIELDS

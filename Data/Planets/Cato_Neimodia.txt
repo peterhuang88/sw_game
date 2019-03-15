@@ -1,0 +1,9 @@
+2
+4
+8
+3
+4
+Vulture_Droid
+Hyena_Bomber
+Tri-Fighter
+Droid_Gunship

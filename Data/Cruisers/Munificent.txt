@@ -1,0 +1,9 @@
+Munificent-Class Frigate
+6
+1
+1600
+1400
+3
+3
+TACTICIAN
+ARMOR PLATING

@@ -1,0 +1,9 @@
+Vindicator-Class Star Destroyer
+18
+1
+2000
+1000
+4
+3
+WING_COMMAND
+IMPERIAL_STANDARD
